@@ -1,0 +1,16 @@
+# time=0 | rst=1 | TAORB=1 | state=00 | timer=0 | led=001100
+# time=20000 | rst=0 | TAORB=1 | state=00 | timer=0 | led=001100
+# time=40000 | rst=0 | TAORB=0 | state=00 | timer=0 | led=001100
+# time=45000 | rst=0 | TAORB=0 | state=01 | timer=0 | led=010100
+# time=55000 | rst=0 | TAORB=0 | state=01 | timer=1 | led=010100
+# time=65000 | rst=0 | TAORB=0 | state=01 | timer=2 | led=010100
+# time=75000 | rst=0 | TAORB=0 | state=01 | timer=3 | led=010100
+# time=85000 | rst=0 | TAORB=0 | state=01 | timer=4 | led=010100
+# time=95000 | rst=0 | TAORB=0 | state=10 | timer=0 | led=100001
+# time=140000 | rst=0 | TAORB=1 | state=10 | timer=0 | led=100001
+# time=145000 | rst=0 | TAORB=1 | state=11 | timer=0 | led=100010
+# time=155000 | rst=0 | TAORB=1 | state=11 | timer=1 | led=100010
+# time=165000 | rst=0 | TAORB=1 | state=11 | timer=2 | led=100010
+# time=175000 | rst=0 | TAORB=1 | state=11 | timer=3 | led=100010
+# time=185000 | rst=0 | TAORB=1 | state=11 | timer=4 | led=100010
+# time=195000 | rst=0 | TAORB=1 | state=00 | timer=0 | led=001100
